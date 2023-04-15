@@ -1,0 +1,1 @@
+It's best to save the CSV file with CSV UTF8 format. This solves the UniCodeDecodeError.
