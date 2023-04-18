@@ -8,7 +8,7 @@ int main()
     printf("Enter a string please");
     scanf("%s",&str);
     //receiving input from user 
-    for(int i=0;i<str[i]!='\0';i++) //loop that iterates through the string
+    for(int i=0;str[i]!='\0';i++) //loop that iterates through the string
     {
         if(str[i]==str[i+1])//comparing the character at the ith position with the character at the (i+1)th position
         {
